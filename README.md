@@ -55,3 +55,7 @@ A Developer Hub (Dev Hub) is the main Salesforce org that you and your team use 
  * Setting up visual studio:
     * VS Code https://code.visualstudio.com/download 
     * Install Salesforce extensions https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode
+    
+# References:
+* https://education.github.com/git-cheat-sheet-education.pdf
+* https://github.com/godarapradeep/lightning
