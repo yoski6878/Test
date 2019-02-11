@@ -48,12 +48,10 @@ A Developer Hub (Dev Hub) is the main Salesforce org that you and your team use 
     * sfdx force:org:open
     
  * Push hello world to the scratch org and test
+    * sfdx force:source:pull --forceoverwrite
     * sfdx force:source:push
     * go to link: /c/helloworld.app
     
  * Setting up visual studio:
     * VS Code https://code.visualstudio.com/download 
-    * Install Salesforce extensions https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode 
-
-    
-
+    * Install Salesforce extensions https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode
