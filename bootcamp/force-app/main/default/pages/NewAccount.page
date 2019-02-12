@@ -1,8 +1,13 @@
-<apex:page controller="AccountContactController">  
-   <!-- ADD SECTION HEADER -->  
+<apex:page controller="AccountContactController" lightningStylesheets="true">  
+<apex:slds>
+   <!-- ADD SECTION HEADER --> 
+
+   <div class="slds-page-header">
    <apex:sectionHeader title="Demo VF Page" subtitle="Create Account and Contact"/>  
+   </div>
    <apex:form >  
    <!-- CREATE PAGE BLOCK -->  
+
      <apex:pageBlock mode="edit">  
          <!-- SECTION TO CREATE ACCOUNT -->  
          <apex:pageBlockSection title="Account Info" columns="2">  
@@ -21,11 +26,26 @@
            <apex:inputField value="{!con.HomePhone}"></apex:inputField>  
            <apex:inputField value="{!con.MobilePhone}"></apex:inputField>  
          </apex:pageBlockSection>  
-         <!-- ADD BUTTONS -->  
-         <apex:pageBlockButtons >  
-           <apex:commandButton value="Clear"/>  
-           <apex:commandButton value="Save" action="{!saveAccCont}"/>  
+         <!-- ADD BUTTONS -->
+         
+         
+         <apex:pageBlockButtons   
+           <apex:commandButton  value="Clear"/> 
+          
+           <apex:commandButton styleClass= "slds-vf-button_brand" value="Save" action="{!saveAccCont}"/>  
+           
          </apex:pageBlockButtons>  
+
+
+                    <button class="slds-button">Button</button>
+          <button class="slds-button slds-button_neutral">Neutral Button</button>
+          <button class="slds-button slds-button_brand">Brand Button</button>
+          <button class="slds-button slds-button_outline-brand">Outline Brand Button</button>
+          <button class="slds-button slds-button_destructive">Destructive Button</button>
+          <button class="slds-button slds-button_text-destructive">Text Destructive Button</button>
+          <button class="slds-button slds-button_success">Success Button</button>
+                  
      </apex:pageBlock>  
-   </apex:form>  
+   </apex:form> 
+   </apex:slds> 
  </apex:page>

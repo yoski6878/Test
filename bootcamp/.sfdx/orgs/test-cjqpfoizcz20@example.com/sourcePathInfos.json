@@ -1,0 +1,589 @@
+[
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549922431945,
+            "changeTime": 1549922431945,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549922431946,
+            "changeTime": 1549922431946,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549989619298,
+            "changeTime": 1549989619298,
+            "contentHash": "0b9adeff8bf3e769bd95625348d4e23ca0731c12",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549999247217,
+            "changeTime": 1549999247217,
+            "contentHash": "1b4be86fdf90685ce3968061121759eee3dd09c5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\helloworld",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\helloworld",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549922431972,
+            "changeTime": 1549922655784,
+            "contentHash": "f5bd3af96eaa1e214ea3612340edae79203f80f6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\helloworld\\helloworld.app",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\helloworld\\helloworld.app",
+            "isDirectory": false,
+            "size": 91,
+            "modifiedTime": 1549995546806,
+            "changeTime": 1549995546806,
+            "contentHash": "0268baa3c89d03ebf790396cf31bf1f9c1f537c3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\helloworld\\helloworld.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\helloworld\\helloworld.app-meta.xml",
+            "isDirectory": false,
+            "size": 249,
+            "modifiedTime": 1549922431953,
+            "changeTime": 1549922431953,
+            "contentHash": "819a071f06dfe7c2f435e830f06de301c041a123",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\helloworld\\helloworld.auradoc",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\helloworld\\helloworld.auradoc",
+            "isDirectory": false,
+            "size": 214,
+            "modifiedTime": 1549922431956,
+            "changeTime": 1549922431956,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\helloworld\\helloworld.css",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\helloworld\\helloworld.css",
+            "isDirectory": false,
+            "size": 12,
+            "modifiedTime": 1549922431959,
+            "changeTime": 1549922431959,
+            "contentHash": "62fce833b8cbf54a137353694e5e7fb5183a3aa5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\helloworld\\helloworld.svg",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\helloworld\\helloworld.svg",
+            "isDirectory": false,
+            "size": 667,
+            "modifiedTime": 1549922431962,
+            "changeTime": 1549922431962,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\helloworld\\helloworldController.js",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\helloworld\\helloworldController.js",
+            "isDirectory": false,
+            "size": 70,
+            "modifiedTime": 1549922431964,
+            "changeTime": 1549922431964,
+            "contentHash": "71e888bad43bee50e7680e4cdabf4d0ffc6e5de6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\helloworld\\helloworldHelper.js",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\helloworld\\helloworldHelper.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1549922431970,
+            "changeTime": 1549922431970,
+            "contentHash": "918895777e9adcce0220bbeb98deb77808a77b47",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\helloworld\\helloworldRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\helloworld\\helloworldRenderer.js",
+            "isDirectory": false,
+            "size": 55,
+            "modifiedTime": 1549922431973,
+            "changeTime": 1549922431973,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\settings",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\settings",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549922431976,
+            "changeTime": 1549922431976,
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+            "isDirectory": false,
+            "size": 6570,
+            "modifiedTime": 1549922431977,
+            "changeTime": 1549922431977,
+            "contentHash": "b124325d9b44a8cc8f341b139573c40b32d482d7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549998729153,
+            "changeTime": 1549998729153,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549989619296,
+            "changeTime": 1549989619296,
+            "contentHash": "13ca06bcc8bfbf41caf50c57bf4c3a5ecc8b4adc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\pages",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549989619307,
+            "changeTime": 1549989619307,
+            "contentHash": "8d2d2cd510de8515b22e28851fa527bcbc91c961",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\classes\\AccountContactController.cls",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\classes\\AccountContactController.cls",
+            "isDirectory": false,
+            "size": 1041,
+            "modifiedTime": 1549989619294,
+            "changeTime": 1549989619294,
+            "contentHash": "904fa74fffb4e9f4f937396a8148712e6dd55c07",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\classes\\AccountContactController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\classes\\AccountContactController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1549989619297,
+            "changeTime": 1549989619297,
+            "contentHash": "75a1f28720b3049a869db0f64665062eaa9d3f79",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\pages\\Lightning_Bootcamp.page",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\pages\\Lightning_Bootcamp.page",
+            "isDirectory": false,
+            "size": 6525,
+            "modifiedTime": 1549989619300,
+            "changeTime": 1549989619300,
+            "contentHash": "7eb96e8670d675ee2babe43d36be788b93d9d1d1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\pages\\Lightning_Bootcamp.page-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\pages\\Lightning_Bootcamp.page-meta.xml",
+            "isDirectory": false,
+            "size": 460,
+            "modifiedTime": 1549989619303,
+            "changeTime": 1549989619303,
+            "contentHash": "05bb5a398cc017b12103b7adf410ef05c5b3e6c9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\pages\\NewAccount.page",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\pages\\NewAccount.page",
+            "isDirectory": false,
+            "size": 2513,
+            "modifiedTime": 1549995546815,
+            "changeTime": 1549995546815,
+            "contentHash": "af19e28e8ca6fa479c2309c321806e8bef796bf6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\pages\\NewAccount.page-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\pages\\NewAccount.page-meta.xml",
+            "isDirectory": false,
+            "size": 509,
+            "modifiedTime": 1549989619308,
+            "changeTime": 1549989619308,
+            "contentHash": "62dbdfec234b41209adef95d08b618ab8585cba3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMI",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMI",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549999219153,
+            "changeTime": 1549999219153,
+            "contentHash": "74605289d04aa4dbbadfaf477110c082e36c115b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMIForm",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMIForm",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1549999247244,
+            "changeTime": 1549999247244,
+            "contentHash": "b65474c5a950022ed913b45caf5c992d12227b73",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMI\\BMI.app",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMI\\BMI.app",
+            "isDirectory": false,
+            "size": 299,
+            "modifiedTime": 1550004607016,
+            "changeTime": 1550004607016,
+            "contentHash": "f6d0302d896d9691c68ce25267255d60a0439c15",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMI\\BMI.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMI\\BMI.app-meta.xml",
+            "isDirectory": false,
+            "size": 237,
+            "modifiedTime": 1549999219143,
+            "changeTime": 1549999219143,
+            "contentHash": "3d4f2a599fcc82513628712a1a8a950297dcdc82",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMI\\BMI.auradoc",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMI\\BMI.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1549999219153,
+            "changeTime": 1549999219153,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMI\\BMI.css",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMI\\BMI.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1549999219148,
+            "changeTime": 1549999219148,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMI\\BMI.svg",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMI\\BMI.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1549999219152,
+            "changeTime": 1549999219152,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMI\\BMIController.js",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMI\\BMIController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1549999219144,
+            "changeTime": 1549999219144,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMI\\BMIHelper.js",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMI\\BMIHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1549999219146,
+            "changeTime": 1549999219146,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMI\\BMIRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMI\\BMIRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1549999219151,
+            "changeTime": 1549999219151,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMIForm\\BMIForm.auradoc",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMIForm\\BMIForm.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1549999247243,
+            "changeTime": 1549999247243,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMIForm\\BMIForm.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMIForm\\BMIForm.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1592,
+            "modifiedTime": 1550005043492,
+            "changeTime": 1550005043492,
+            "contentHash": "f362d40408d20b13bdc4b1a063c8aa45f5d60767"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMIForm\\BMIForm.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMIForm\\BMIForm.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 239,
+            "modifiedTime": 1549999247220,
+            "changeTime": 1549999247220,
+            "contentHash": "1e51c6962fb208a547609a9fa3372ef066e5e20a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMIForm\\BMIForm.css",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMIForm\\BMIForm.css",
+            "isDirectory": false,
+            "size": 421,
+            "modifiedTime": 1550004063076,
+            "changeTime": 1550004063076,
+            "contentHash": "d388cd11f90904b1f1ff34a8463d7b4fe771a03a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMIForm\\BMIForm.design",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMIForm\\BMIForm.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1549999247245,
+            "changeTime": 1549999247245,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMIForm\\BMIForm.svg",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMIForm\\BMIForm.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1549999247239,
+            "changeTime": 1549999247239,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMIForm\\BMIFormController.js",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMIForm\\BMIFormController.js",
+            "isDirectory": false,
+            "size": 457,
+            "modifiedTime": 1550004951430,
+            "changeTime": 1550004951430,
+            "contentHash": "eb455f9542332781bc2a30b77dd6e67ae3010bb1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMIForm\\BMIFormHelper.js",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMIForm\\BMIFormHelper.js",
+            "isDirectory": false,
+            "size": 750,
+            "modifiedTime": 1550004221985,
+            "changeTime": 1550004221985,
+            "contentHash": "d6605406de0a54e22e6c8ee555d1bd9cd7e3f0ed",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMIForm\\BMIFormRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\ykinfu\\Documents\\Lighning Dx\\lightning\\bootcamp\\force-app\\main\\default\\aura\\BMIForm\\BMIFormRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1549999247237,
+            "changeTime": 1549999247237,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]
